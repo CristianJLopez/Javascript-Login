@@ -1,0 +1,52 @@
+form{
+  max-width: 500px;
+  font: 20px Tahoma;
+  border-radius: 1rem;
+}
+div{
+  text-align: left;
+  margin: 10px;
+  font: 50%;
+}
+fieldset{
+  background-color: #F04242;
+  color: white;
+  border-radius: 20px 20px 0px 0px;
+}
+input{
+  background-color: #E9E9E9;
+  width: 90%;
+  height: 20px;
+  border: 0;
+}
+input:focus{
+  box-shadow: 0 0 5px 1px black;
+} 
+.todo{
+  border: 0;
+  border-radius: 1rem;
+  box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+  max-width: 500px;
+  margin: 200px;
+}
+button{
+  background-color: #49D479;
+  border-radius: 5px;
+  border-color: #49D479;
+  color: white;
+  width: 100px;
+  height: 30px;
+}
+img{
+  filter: invert(1.4);
+  width: 50px;
+  height: 50px;
+}
+h3{
+  font-size:  15px;
+  font-weight: lighter;
+  color: #ABADAC;
+}
+#btn{
+  text-align: center;
+}
